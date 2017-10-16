@@ -1,0 +1,1298 @@
+[
+    {
+        "code": 445,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 722,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 956,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 1231,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 1542,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 1961,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 2039,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 2345,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 3676,
+        "lab1": 100,
+        "hw1": 80
+    },
+    {
+        "code": 3914,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 4104,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 93
+    },
+    {
+        "code": 5320,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 5410,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 5568,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 5811,
+        "lab1": 100,
+        "hw1": 82
+    },
+    {
+        "code": 5901,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 6507,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 6513,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 6653,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 6675,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 6873,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 7521,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 8264
+    },
+    {
+        "code": 8328
+    },
+    {
+        "code": 8391,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 87
+    },
+    {
+        "code": 9414,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 9490,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 97
+    },
+    {
+        "code": 9989
+    },
+    {
+        "code": 10450,
+        "lab1": 100,
+        "hw1": 86
+    },
+    {
+        "code": 10508,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 10590,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 11336,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 11581,
+        "lab1Attendance": 1,
+        "lab1": 100
+    },
+    {
+        "code": 11837,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 12249,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 94
+    },
+    {
+        "code": 12466,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 12567,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 12988
+    },
+    {
+        "code": 14288,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 15031,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 15461,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 15599,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 15850,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 16505,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 16754,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 16954,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 17189,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 17353,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 17574,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 92
+    },
+    {
+        "code": 17655
+    },
+    {
+        "code": 17831,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 18044,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 18111,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 18891,
+        "lab1": 100,
+        "hw1": 91
+    },
+    {
+        "code": 19961,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 96
+    },
+    {
+        "code": 20011,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 20353,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 20627,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 21672,
+        "lab1": 0,
+        "hw1": 89
+    },
+    {
+        "code": 21846,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 22706,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 23081
+    },
+    {
+        "code": 23210,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 23559,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 24681,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 24806
+    },
+    {
+        "code": 25557,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 92
+    },
+    {
+        "code": 25766,
+        "lab1": 100,
+        "hw1": 88
+    },
+    {
+        "code": 25807,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 25893,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 25912,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 28323,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 28840,
+        "lab1": 100,
+        "hw1": 87
+    },
+    {
+        "code": 28868,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 29151,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 29427,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 30079,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 30671,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 31088,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 31508,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 31707,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 32193,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 97
+    },
+    {
+        "code": 32436,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 33049,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 96
+    },
+    {
+        "code": 33659,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 34055,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 92
+    },
+    {
+        "code": 35571,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 36646,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 38008,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 38018,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 38042,
+        "lab1Attendance": 1,
+        "lab1": 0,
+        "hw1": 97
+    },
+    {
+        "code": 40922,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 41156,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 41727,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 41747
+    },
+    {
+        "code": 41977,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 41990,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 42355,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 43124,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 43604,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 44096,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 44176,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 44368,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 45310,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 46598,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 84
+    },
+    {
+        "code": 47009
+    },
+    {
+        "code": 47233,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 89
+    },
+    {
+        "code": 47657
+    },
+    {
+        "code": 47705,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 47765,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 47975,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 96
+    },
+    {
+        "code": 48004,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 48601,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 50,
+        "hw1": 99
+    },
+    {
+        "code": 48971
+    },
+    {
+        "code": 49029,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 49806,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 49809,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 49846,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 50318,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 50339,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 50761,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 51522,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 51799,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 52010,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 52023,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 52743,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 79
+    },
+    {
+        "code": 52925,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 50,
+        "hw1": 100
+    },
+    {
+        "code": 52957,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 83
+    },
+    {
+        "code": 54341,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 54787,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 54800,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 97
+    },
+    {
+        "code": 56330,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 56380,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 88
+    },
+    {
+        "code": 56723,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 58075
+    },
+    {
+        "code": 58807,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 59072,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 97
+    },
+    {
+        "code": 59127,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 59280,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 59486,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 60328,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 61561,
+        "lab1": 100,
+        "hw1": 94
+    },
+    {
+        "code": 62059,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 62233,
+        "lab1Attendance": 1
+    },
+    {
+        "code": 62257,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 63003,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 63561,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 63677,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 63692,
+        "lab1": 100,
+        "hw1": 94
+    },
+    {
+        "code": 63747,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 64787,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 65133,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 65196,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 85
+    },
+    {
+        "code": 65348,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 65510,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 65890,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 65967,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 66636,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 67077,
+        "lab1": 100,
+        "hw1": 88
+    },
+    {
+        "code": 67530,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 84
+    },
+    {
+        "code": 68391,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 68583,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 69479
+    },
+    {
+        "code": 71119
+    },
+    {
+        "code": 71352,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 72566,
+        "lab1": 0,
+        "hw1": 84
+    },
+    {
+        "code": 72607,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 72674,
+        "lab1": 100,
+        "hw1": 94
+    },
+    {
+        "code": 72944,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 73087,
+        "lab1": 100,
+        "hw1": 96
+    },
+    {
+        "code": 73401,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 75464,
+        "lab1Attendance": 1,
+        "lab1": 50,
+        "hw1": 100
+    },
+    {
+        "code": 75549,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 75592,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 76019,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 76314,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 76470,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 76727,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 77086,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 78502,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 78987,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 79731,
+        "lab1": 100
+    },
+    {
+        "code": 80467,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 76
+    },
+    {
+        "code": 80485,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 81389,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 82001,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 82129,
+        "lab1": 100,
+        "hw1": 86
+    },
+    {
+        "code": 82844,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 84010,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 88
+    },
+    {
+        "code": 84673,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 85440,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 85442,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 85596,
+        "hw1": 99
+    },
+    {
+        "code": 85741,
+        "lab1": 100,
+        "hw1": 92
+    },
+    {
+        "code": 86270,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 86838,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 98
+    },
+    {
+        "code": 87692,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 87727,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 88024,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 88493,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 89137,
+        "lab1": 100,
+        "hw1": 95
+    },
+    {
+        "code": 89296
+    },
+    {
+        "code": 89892
+    },
+    {
+        "code": 90190,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100
+    },
+    {
+        "code": 90377,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 91
+    },
+    {
+        "code": 90723,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 90756,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 90934,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 91168,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 91197,
+        "lab1": 100,
+        "hw1": 99
+    },
+    {
+        "code": 91896,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 92106,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 89
+    },
+    {
+        "code": 93137,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 94969,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 96840,
+        "lab1Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 97863,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    },
+    {
+        "code": 97909,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 90
+    },
+    {
+        "code": 98461,
+        "lab1Attendance": 1,
+        "lab2Attendance": 1,
+        "lab1": 100,
+        "hw1": 100
+    }
+]
+
